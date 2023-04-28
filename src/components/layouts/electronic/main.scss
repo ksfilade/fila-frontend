@@ -1,0 +1,26 @@
+.test{
+    border:solid black 1px;
+    // background-image: url('../../../assets/images/Pellet-Stove-Mareli-PS-8-Red-Front-8-1333x750-300x300.png');
+
+}
+.slider-contain__image{
+    
+    width: 100%;
+    height: auto;
+    
+}
+
+@media (max-width: 600px){
+.home-slider{
+display:none
+}
+}
+.featured-products-container{
+    display: flex;
+    justify-content: center;
+    // border: solid black 1px;
+}
+
+.featured-product{
+    width: 75%;
+}

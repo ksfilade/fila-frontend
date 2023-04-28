@@ -1,0 +1,17 @@
+.success_container{
+    border: solid black 1px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid lightgray 1px;
+    border-radius: 18px;;
+    margin: 20px;;
+    &__box{
+        h1{
+            text-align: center;
+            font-size: 36px;
+            color: rgba(48, 223, 48, 0.841);
+      }
+    }
+}

@@ -1,0 +1,10 @@
+
+@import "../../public/assets/scss/landing-page";
+.header__main{
+    padding: 0px 80px;
+}
+@media (max-width:600px){
+    .header__main{
+        padding: 0px 0px;
+    }
+}
